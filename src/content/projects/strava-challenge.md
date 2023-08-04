@@ -1,5 +1,5 @@
 ---
-title: StravaChallenge
+title: Challenge Strava
 publishDate: 2023-06-01 00:00:00
 img: /assets/challenge-strava.png
 img_alt: Tableau de bord du challenge

@@ -1,7 +1,7 @@
 ---
-title: Site d'inscription au Tournoi National de Thorigné Fouillard (PHP)
+title: Inscription Tournoi TFTT
 publishDate: 2017-03-01 00:00:00
-img: /chemin/vers/votre/image.jpg
+img: /assets/tournament-tftt.png
 img_alt: Site d'inscription en ligne
 description: |
   Le projet consiste en la création d'un site web de gestion des inscriptions au Tournoi National de Thorigné Fouillard en utilisant PHP et Postgres. Ce site permet aux joueurs de s'inscrire aux différents tableaux proposés tout en prenant en compte les contraintes de classement pour participer à ces tableaux. Depuis sa mise en place, le site est utilisé chaque année avec de très bons retours. Contrairement aux autres clubs qui utilisent souvent des solutions moins esthétiques comme Google Forms ou des plugins WordPress, ce site offre une interface conviviale et personnalisée pour les inscriptions.
