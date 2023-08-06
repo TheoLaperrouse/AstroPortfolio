@@ -79,7 +79,7 @@ import Icon from './Icon.astro';
 
 			button.addEventListener('click', () => setTheme(!this.isDark()));
 
-			setTheme(true);
+			setTheme(this.isDark());
 		}
 
 		isDark() {
