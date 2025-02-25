@@ -32,9 +32,9 @@ Le site comprend les fonctionnalités suivantes :
 
 Le site est développé en utilisant les technologies suivantes :
 - PHP : Pour la logique de gestion des inscriptions et la communication avec la base de données.
-- Postgres : Pour stocker les données des inscriptions et des tableaux.
+- PostgreSQL : Pour stocker les données des inscriptions et des tableaux.
 - HTML, CSS et JavaScript : Pour personnaliser le design et les fonctionnalités du site.
 
 ## Réalisations au fil des années
 
-Au fil des années, le site a été régulièrement amélioré (refacto) pour offrir une meilleure expérience aux joueurs et aux organisateurs du Tournoi National. Les connaissances acquises lors de projets annexes ont été mises à profit pour optimiser le code et ajouter de nouvelles fonctionnalités. Grâce aux retours positifs des utilisateurs, le site continue d'évoluer et de s'améliorer d'année en année.
+Au fil des années, le site a été régulièrement amélioré pour offrir une meilleure expérience aux joueurs et aux organisateurs du Tournoi National. Les connaissances acquises lors de projets annexes ont été mises à profit pour optimiser le code et ajouter de nouvelles fonctionnalités. Grâce aux retours positifs des utilisateurs, le site continue d'évoluer et de s'améliorer d'année en année.

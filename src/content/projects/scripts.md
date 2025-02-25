@@ -29,18 +29,18 @@ tags:
 
 ## Extension Chrome
 
-- Une extension Chrome (ou Brave) pour récupérer les anciens et les prochains matches du club.
+- Une extension Chrome (ou Brave) pour récupérer les anciens et les prochains matchs du club.
 - Elle permet de faciliter l'accès aux informations.
 
 ## AppsScript
 
-- Scripts visant à la modification de feuilles GoogleSheet.
-- Trois scripts pour la récupération de rencontres de la phase avec les joueurs pour les matches déjà joués, la mise à jour des catégories et du brûlage selon les données de rencontres, et des scripts utilitaires.
+- Scripts visant à la modification de feuilles Google Sheets.
+- Trois scripts pour la récupération des rencontres de la phase avec les joueurs pour les matchs déjà joués, la mise à jour des catégories et du brûlage selon les données de rencontres, et des scripts utilitaires.
 
 ## Conclusion
 
-Ces projets offrent des fonctionnalités variées, de la gestion des inscriptions au tournoi au traitement de vidéos, en passant par la récupération de données de matchs et de classements pour le club de Tennis de Table de Thorigné Fouillard. 
+Ces projets offrent des fonctionnalités variées, de la gestion des inscriptions au tournoi au traitement de vidéos, en passant par la récupération de données de matchs et de classements pour le club de Tennis de Table de Thorigné Fouillard.
 
 Ils montrent mon engagement pour améliorer et optimiser les processus grâce à des outils et des scripts personnalisés.
 
-Pour plus de détails sur chaque projet, consultez le dépôt GitHub : [Repo](https://github.com/TheoLaperrouse/CodeTFTT)
+Pour plus de détails sur chaque projet, consultez le dépôt GitHub : [Repo](https://github.com/TheoLaperrouse/CodeTFTT).
